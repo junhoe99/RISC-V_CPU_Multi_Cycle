@@ -8,7 +8,8 @@
 
 ## 🏗️ System Architecture
  - **Block Diagram**
-   <img width="8648" height="6316" alt="image" src="https://github.com/user-attachments/assets/7825a934-9bf9-4d86-b5bf-47c216bb95d5" />
+   <img width="6660" height="5168" alt="image" src="https://github.com/user-attachments/assets/c170467b-12a0-4137-945f-94c55129c5b6" />
+
 
  - **Project Sturucture**
    
