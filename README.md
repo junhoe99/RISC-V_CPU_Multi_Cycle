@@ -2,7 +2,7 @@
 
 ## 🔍 Project Overview
 
-> 이 프로젝트는 **SystemVerilog HDL기반 RV32I RISC-V 프로세서** 설계 프로젝트입니다. 32비트 RISC-V ISA의 기본 명령어들을 지원하며, 파이프라인 없이 multi cycle 구현으로 설계되었습니다.
+> 이 프로젝트는 **SystemVerilog HDL기반 RV32I RISC-V 프로세서** 설계 프로젝트입니다. 32비트 RISC-V ISA의 기본 명령어들을 지원하며, 파이프라인 없이 multi cycle 구현으로 설계했습니다.
 
 
 
