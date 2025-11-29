@@ -1,19 +1,16 @@
 # 🔧 Multi Cycle RV32I RISC-V Processor
 
-## 🎯 Project Objective
+## 🎯 1. Project Objective
 > 이 프로젝트는 **SystemVerilog HDL기반 RV32I RISC-V 프로세서** 설계 프로젝트입니다. 32비트 RISC-V ISA의 기본 명령어들을 지원하며, 파이프라인 없이 multi cycle 구현으로 설계했습니다.
 
 
-## 🔍 Project Overview
+## 🔍 2. Project Overview
 
-### 🏗️ System Architecture
- - **Block Diagram**
+### **Block Diagram**
   <img width="6660" height="5168" alt="image" src="https://github.com/user-attachments/assets/7e7cf06e-dcfa-4790-b0a1-7a36c41b06f0" />
 
 
-
-
- - **Project Sturucture**
+### **Project Sturucture**
    
 ```
 📁RV32I_RISC_V/
