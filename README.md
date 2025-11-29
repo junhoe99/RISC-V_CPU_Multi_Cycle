@@ -10,7 +10,7 @@
   <img width="6660" height="5168" alt="image" src="https://github.com/user-attachments/assets/7e7cf06e-dcfa-4790-b0a1-7a36c41b06f0" />
 
 
-### **Project Sturucture**
+### **Project Hierarchy**
    
 ```
 📁RV32I_RISC_V/
