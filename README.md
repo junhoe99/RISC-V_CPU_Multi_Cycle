@@ -1,12 +1,12 @@
 # 🔧 Multi Cycle RV32I RISC-V Processor
 
-## 🔍 Project Overview
-
+## 🔍 Project Objective
 > 이 프로젝트는 **SystemVerilog HDL기반 RV32I RISC-V 프로세서** 설계 프로젝트입니다. 32비트 RISC-V ISA의 기본 명령어들을 지원하며, 파이프라인 없이 multi cycle 구현으로 설계했습니다.
 
 
+## 🔍 Project Overview
 
-## 🏗️ System Architecture
+### 🏗️ System Architecture
  - **Block Diagram**
   <img width="6660" height="5168" alt="image" src="https://github.com/user-attachments/assets/7e7cf06e-dcfa-4790-b0a1-7a36c41b06f0" />
 
@@ -40,7 +40,7 @@
     └── 🗂️tb.sv                  # 테스트벤치
 ```
 
-### 1. CPU Core Components
+#### 1. CPU Core Components
 - **Datapath**: 데이터 흐름 및 연산 경로 제어
 - **Control Unit**: 명령어 디코딩 및 제어 신호 생성
 - **ALU**: 32비트 산술 논리 연산 장치
@@ -48,11 +48,11 @@
 - **Program Counter**: 명령어 주소 관리
 - **Immediate Extension**: 즉시값 부호 확장 및 형태 변환
 
-### 2. Memory System Components
+#### 2. Memory System Components
 - **Instruction Memory**: 64개 명령어 저장 가능한 ROM
 - **Data Memory**: 128바이트 데이터 저장 가능한 RAM
 
-### 3. Supporting Modules
+#### 3. Supporting Modules
 - **Multiplexers**: 2:1, 4:1, 5:1 데이터 선택기
 - **PC Adder**: 프로그램 카운터 증가 및 분기 주소 계산
 - **Adder**: 범용 가산기 (점프 주소 계산용)
